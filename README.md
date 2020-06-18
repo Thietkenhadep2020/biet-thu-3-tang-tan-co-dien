@@ -1,2 +1,22 @@
-# biet-thu-3-tang-tan-co-dien
-Mẫu thiết kế biệt thự 3 tầng tân cổ điển đẹp sang trọng xu hướng 2020.
+<ul class="portfolio-info-list"><li><span class="label">Chủ đầu tư: </span><span class="value">Chị Anh</span></li><li><span class="label">Địa điểm: </span><span class="value">Tiền Giang</span></li><li><span class="label">Diện tích: </span><span class="value">195m2 (13x16m)</span></li><li><span class="label">Quy mô dự án: </span><span class="value">Biệt thự 3 tầng bán cổ điển</span></li><li><span class="label">Kinh phí: </span><span class="value">Chi phí thi công hoàn thiện kiến trúc và nội thất trọn gói 4,5 tỷ</span></li><li><span class="label">Nhóm thiết kế - </span><span class="value">Thi công: NEOHouse JSC</span></li><li><span class="label">Năm thiết kế: </span><span class="value">3/2020</span></li><li><span class="label">Mã dự án: </span><span class="value">BTB07</span></li></ul>
+
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592445982990/biet-thu-3-tang-tan-co-dien-dep/biet-thu-3-tang-ban-co-dien-1.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592445987204/biet-thu-3-tang-tan-co-dien-dep/biet-thu-3-tang-ban-co-dien-2.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592445991269/biet-thu-3-tang-tan-co-dien-dep/biet-thu-3-tang-ban-co-dien-3.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592445995557/biet-thu-3-tang-tan-co-dien-dep/biet-thu-3-tang-ban-co-dien-4.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592445999080/biet-thu-3-tang-tan-co-dien-dep/biet-thu-3-tang-ban-co-dien-5.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446004156/biet-thu-3-tang-tan-co-dien-dep/biet-thu-3-tang-ban-co-dien-6.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446008456/biet-thu-3-tang-tan-co-dien-dep/ho-so-dien-nuoc-biet-thu-3-tang-ban-co-dien.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446013585/biet-thu-3-tang-tan-co-dien-dep/ho-so-ket-cau-biet-thu-3-tang-ban-co-dien.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446017547/biet-thu-3-tang-tan-co-dien-dep/ho-so-kien-truc-biet-thu-3-tang-ban-co-dien.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446022340/biet-thu-3-tang-tan-co-dien-dep/mat-bang-biet-thu-3-tang-ban-co-dien.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446026451/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-1.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446032475/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-2.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446038480/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-3.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446042775/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-4.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446046180/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-5.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446050527/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-6.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446056782/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-7.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446060802/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-8.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446064326/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-9.jpg" style="width:100%">
+<img border="0" src="https://sites.google.com/site/mauthietkenhadep2020/_/rsrc/1592446068232/biet-thu-3-tang-tan-co-dien-dep/thiet-ke-thi-cong-noi-that-biet-thu-3-tang-ban-co-dien-10.jpg" style="width:100%">
